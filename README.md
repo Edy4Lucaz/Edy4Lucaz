@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Edy4Lucaz
+- 👀 I’m interested in coding and learn 
+- 🌱 I’m currently learning pentest 
+- 💞️ I’m looking to collaborate on all projects about pentest
